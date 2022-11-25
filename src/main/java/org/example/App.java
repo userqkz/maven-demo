@@ -12,6 +12,7 @@ public class App {
         System.out.println("加油！！");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("pull app");
         System.out.println("push test");
     }
 }
