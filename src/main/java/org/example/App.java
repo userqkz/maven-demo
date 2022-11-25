@@ -11,5 +11,6 @@ public class App {
         System.out.println("hello 111");
         System.out.println("加油！！");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 }
